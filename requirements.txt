@@ -1,7 +1,6 @@
 opencv-python
 numpy
 pillow
-# functools
 torchsummary
 matplotlib
 scikit-image
