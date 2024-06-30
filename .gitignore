@@ -2,3 +2,4 @@
 *.pth
 *.xml
 data/
+*.png
